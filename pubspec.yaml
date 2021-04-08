@@ -19,7 +19,7 @@ dependencies:
     react: ">=5.7.0 <7.0.0"
     w_common:
       git:
-        url: git@github.com:Workiva/w_common
+        url: git@github.com:Workiva/w_common.git
         ref: flutter-fix
 
 dev_dependencies:
